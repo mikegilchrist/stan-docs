@@ -19,6 +19,26 @@
 \usepackage{booktabs}
 \usepackage{amsthm}
 
+% Stan source code listings
+\usepackage{listings}
+\usepackage{lstbayes}
+\lstset{
+  language={Stan},
+  basicstyle=\small\ttfamily,
+  captionpos=b,
+  extendedchars=true,
+  tabsize=2,
+  columns=fixed,
+  keepspaces=true,
+  showstringspaces=false,
+  breaklines=true,
+  frame=trbl,
+  frameround=tttt,
+  framesep=2pt,
+  numbers=left,
+  numberstyle=\tiny\ttfamily
+}
+
 \usepackage{titlesec}
 \titleformat{\chapter}{\bfseries\LARGE}{\thechapter.}{1.5pc}{}{}
 \titlespacing{\chapter}{0pt}{0pt}{12pt}

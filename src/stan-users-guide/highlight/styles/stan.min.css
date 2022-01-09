@@ -1,0 +1,55 @@
+/*!
+  Theme: Default
+  Description: Original highlight.js style
+  Author: (c) Ivan Sagalaev <maniac@softwaremaniacs.org>
+  Maintainer: @highlightjs/core-team
+  Website: https://highlightjs.org/
+  License: see project LICENSE
+  Touched: 2021
+*/
+.book .book-body .page-wrapper .page-inner section.normal pre .hljs{display:block;overflow-x:auto;padding:1em;width=90%;background:#f7f7f7;padding:3px 5px}
+.book .book-body .page-wrapper .page-inner section.normal code .hljs{display:block;overflow-x:auto;padding:1em;width=90%;background:#f7f7f7;padding:3px 5px}
+
+.book .book-body .page-wrapper .page-inner section.normal pre .hljs-title{color:#800;font-weight:700}
+.book .book-body .page-wrapper .page-inner section.normal code .hljs-title{color:#800;font-weight:700}
+
+.book .book-body .page-wrapper .page-inner section.normal pre .hljs-comment{color:#888}
+.book .book-body .page-wrapper .page-inner section.normal code .hljs-comment{color:#888}
+
+.book .book-body .page-wrapper .page-inner section.normal pre .hljs-punctuation,.hljs-tag{color:#444}
+.book .book-body .page-wrapper .page-inner section.normal code .hljs-punctuation,.hljs-tag{color:#444}
+
+.book .book-body .page-wrapper .page-inner section.normal pre .hljs-tag, .hljs-attr,.hljs-tag .hljs-name{color:#444}
+.book .book-body .page-wrapper .page-inner section.normal code .hljs-tag, .hljs-attr,.hljs-tag .hljs-name{color:#444}
+
+.book .book-body .page-wrapper .page-inner section.normal pre .hljs-attribute,.hljs-doctag,.hljs-meta,.hljs-keyword,.hljs-name,.hljs-selector-tag{font-weight:600; color:#248}
+.book .book-body .page-wrapper .page-inner section.normal code .hljs-attribute,.hljs-doctag,.hljs-meta,.hljs-keyword,.hljs-name,.hljs-selector-tag{font-weight:600; color:#248}
+
+.book .book-body .page-wrapper .page-inner section.normal pre .hljs-deletion,.hljs-number,.hljs-quote,.hljs-selector-class,.hljs-selector-id,.hljs-string,.hljs-template-tag,.hljs-type{color:#800}
+.book .book-body .page-wrapper .page-inner section.normal code .hljs-deletion,.hljs-number,.hljs-quote,.hljs-selector-class,.hljs-selector-id,.hljs-string,.hljs-template-tag,.hljs-type{color:#800}
+
+.book .book-body .page-wrapper .page-inner section.normal pre .hljs-link,.hljs-operator,.hljs-regexp,.hljs-selector-attr,.hljs-selector-pseudo,.hljs-symbol,.hljs-template-variable,.hljs-variable{color:#bc6060}
+.book .book-body .page-wrapper .page-inner section.normal code .hljs-link,.hljs-operator,.hljs-regexp,.hljs-selector-attr,.hljs-selector-pseudo,.hljs-symbol,.hljs-template-variable,.hljs-variable{color:#bc6060}
+
+.book .book-body .page-wrapper .page-inner section.normal pre .hljs-literal{color:#78a960}
+.book .book-body .page-wrapper .page-inner section.normal code .hljs-literal{color:#78a960}
+
+.book .book-body .page-wrapper .page-inner section.normal pre .hljs-built_in{color:#249b93;font-weight:600}
+.book .book-body .page-wrapper .page-inner section.normal code .hljs-built_in{color:#249b93;font-weight:600}
+
+.book .book-body .page-wrapper .page-inner section.normal pre .hljs-addition,.hljs-bullet,.hljs-code{color:#397300}
+.book .book-body .page-wrapper .page-inner section.normal code .hljs-addition,.hljs-bullet,.hljs-code{color:#397300}
+
+.book .book-body .page-wrapper .page-inner section.normal pre .hljs-meta{color:#1f7199}
+.book .book-body .page-wrapper .page-inner section.normal code .hljs-meta{color:#1f7199}
+
+.book .book-body .page-wrapper .page-inner section.normal pre .hljs-meta .hljs-string{color:#4d99bf}
+.book .book-body .page-wrapper .page-inner section.normal code .hljs-meta .hljs-string{color:#4d99bf}
+
+.book .book-body .page-wrapper .page-inner section.normal pre .hljs-emphasis{font-style:italic}
+.book .book-body .page-wrapper .page-inner section.normal code .hljs-emphasis{font-style:italic}
+
+.book .book-body .page-wrapper .page-inner section.normal pre .hljs-strong{font-weight:700}
+.book .book-body .page-wrapper .page-inner section.normal code .hljs-strong{font-weight:700}
+
+

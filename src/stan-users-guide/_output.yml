@@ -1,6 +1,8 @@
 bookdown::gitbook:
   code folding: hide
   css: stan-manual.css
+  includes:
+    in_header: header.html
   split_by: "section"
   config:
     search:
@@ -22,6 +24,7 @@ bookdown::gitbook:
       after: null
 
 subparagraph: yes
+
 bookdown::pdf_book:
   latex_engine: "pdflatex"
   includes:
