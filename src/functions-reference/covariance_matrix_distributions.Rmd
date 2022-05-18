@@ -75,7 +75,7 @@ $L_W \in \mathbb{R}^{K \times K}$ is lower triangular and such that $L_WL_W^{\to
 is positive definite, \[
 \text{WishartCholesky}(L_W \mid \nu,L_S) =
 \text{Wishart}(W \mid \mu, LL^{\top}). \] If $L$ such that $L \in {L_S, L_W}$  is lower triangular and
-$L^L^{top}$ is a $K \times K$ positive definite matrix, then $L_{k, k}$
+$LL^{top}$ is a $K \times K$ positive definite matrix, then $L_{k, k}$
 must be strictly positive for $k \in 1{:}K$. If an $L$ is provided
 that is not the Cholesky factor of a positive-definite matrix, the
 probability functions will raise errors.
